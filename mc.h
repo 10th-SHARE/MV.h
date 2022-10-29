@@ -1,1 +1,3 @@
-korega hedder
+//korega heddervoi
+
+void kake();
